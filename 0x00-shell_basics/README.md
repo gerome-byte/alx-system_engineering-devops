@@ -1,1 +1,1 @@
-list files from different directories in order
+script that prints the type of the file named iamafile
