@@ -1,1 +1,1 @@
-Removing betty
+Removing my_first_directory
