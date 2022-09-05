@@ -1,4 +1,1 @@
-#!/bin/bash
-script that prints the absolute path name of the current worki
-
-ng directory
+ command that lists all the files and directories of the current directory, separated by commas
